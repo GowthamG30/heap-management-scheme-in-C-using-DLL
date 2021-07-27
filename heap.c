@@ -1,4 +1,4 @@
-// Gowtham Gorrepati, BT19CSE033, CPL, Assignment 3, Heap, 16-03-2021
+// Gowtham Gorrepati
 
 #include <stdio.h>
 #include <stdlib.h>
