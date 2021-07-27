@@ -1,4 +1,4 @@
-// Gowtham Gorrepati, BT19CSE033, CPL, Assignment 3, Declarations, 16-03-2021
+// Gowtham Gorrepati
 
 #define MAX_END 999
 #define NAME_SIZE 100 // name without spaces
