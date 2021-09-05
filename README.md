@@ -3,7 +3,6 @@
 Heap simulation - DLL
 
 Assumptions
-/*
     > Using First Fit Allocation Strategy.
     > The following program is just the simulation of heap management, but not the actual allocation.
     > Two variables with the same name are not allowed. (Appropriate user message is printed)
@@ -11,7 +10,6 @@ Assumptions
     > Start and End are the inclusive edge indices of each block (free or allocated).
     > An Explicit list is maintained.
     > The metadata for the heap block is assumed to be in the allocated memory itself, and won't be specified explicitly.
-*/
 
 Usage
 
